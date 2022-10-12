@@ -1,0 +1,19 @@
+#websitename{
+    color: rgb(98,4,4);
+}
+#Deathnote{
+    text-align: center;
+}
+#HunterXHunter{
+    text-align: center;
+}
+#Jujustsukaisen{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+body{
+    background: rgb(255,178,240);
+    background: linear-gradient(90deg, rgba(255,178,240,1) 0%, rgba(255,118,216,1) 40%, rgba(90,206,255,1) 80%, rgba(0,212,255,1) 100%);
+}
